@@ -1,0 +1,10 @@
+1. Compiler (javac) và JVM
+2. Gửi file .class vì máy người nhận chỉ cần có JVM để chạy, nếu gửi
+cả file .java thì máy họ cần cả compiler lẫn JVM, nhưng nếu chỉ cần
+chạy chương trình thì chỉ cần JVM, compiler chỉ cần tới khi họ code
+Java
+3. public static void main(String[] args) {
+   //code
+}
+4. while(1 boolean expression hoặc 1 biến boolean), x là 1 biến int
+5. biến boolean chỉ nhận true hoặc false, ko thể gán 1
