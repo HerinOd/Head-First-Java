@@ -1,4 +1,4 @@
-package breaking.the.surface.exercises.be.the.compiler;
+package breaking_the_surface.exercises.be_the_compiler;
 //Page 21
 
 class Exercise1a {

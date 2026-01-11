@@ -1,4 +1,4 @@
-package breaking.the.surface.exercises;
+package breaking_the_surface.exercises;
 //Page 20
 
 //Output:
